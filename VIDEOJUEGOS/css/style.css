@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+#loadGamesBtn {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
